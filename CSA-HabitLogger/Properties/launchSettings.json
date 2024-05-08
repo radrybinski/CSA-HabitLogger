@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CSA-HabitLogger": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\r.rybinski\\Documents\\CSAcademy\\CSA-HabitLogger\\CSA-HabitLogger\\"
+    }
+  }
+}
